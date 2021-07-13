@@ -1,0 +1,221 @@
+
+ 
+ The Total Sales : $2297200.639999962
+ The Total Profit : $286397.0217000013
+ 
+ Sales for each Category
+ 
+ Furniture    -    $741999.7299999986
+ Office Supplies    -    $719046.8499999997
+ Technology    -    $836154.0599999909
+ 
+ Profit for each Category
+ 
+ Furniture    -    $18451.17999999999
+ Office Supplies    -    $122490.13000000005
+ Technology    -    $145455.31
+ 
+ The Sales for each State
+ 
+ Kentucky    -    $36591.74999999997
+ California    -    $457687.6200000005
+ Florida    -    $89473.68000000004
+ North Carolina    -    $55603.07999999995
+ Washington    -    $138641.28999999995
+ Texas    -    $170187.91999999987
+ Wisconsin    -    $32114.61000000002
+ Utah    -    $11220.059999999998
+ Nebraska    -    $7464.9299999999985
+ Pennsylvania    -    $116511.93
+ Illinois    -    $80166.08999999992
+ Minnesota    -    $29863.149999999994
+ Michigan    -    $76269.60000000002
+ Delaware    -    $27451.069999999996
+ Indiana    -    $53555.36
+ New York    -    $310876.19999999984
+ Arizona    -    $35281.99999999999
+ Virginia    -    $70636.71999999999
+ Tennessee    -    $30661.909999999978
+ Alabama    -    $19510.639999999992
+ South Carolina    -    $8481.71
+ Oregon    -    $17431.130000000005
+ Colorado    -    $32108.11
+ Iowa    -    $4579.759999999999
+ Ohio    -    $78258.18000000004
+ Missouri    -    $22205.149999999998
+ Oklahoma    -    $19683.39
+ New Mexico    -    $4783.54
+ Louisiana    -    $9217.029999999999
+ Connecticut    -    $13384.359999999997
+ New Jersey    -    $35764.320000000014
+ Massachusetts    -    $28634.439999999995
+ Georgia    -    $49095.840000000004
+ Nevada    -    $16729.100000000002
+ Rhode Island    -    $22627.96
+ Mississippi    -    $10771.34
+ Arkansas    -    $11678.129999999997
+ Montana    -    $5589.349999999998
+ New Hampshire    -    $7292.5199999999995
+ Maryland    -    $23705.52
+ District of Columbia    -    $2865.0199999999995
+ Kansas    -    $2914.31
+ Vermont    -    $8929.369999999999
+ Maine    -    $1270.5300000000002
+ South Dakota    -    $1315.5600000000002
+ Idaho    -    $4382.490000000002
+ North Dakota    -    $919.91
+ Wyoming    -    $1603.14
+ West Virginia    -    $1209.8200000000002
+ 
+ The Profit for each State
+ 
+ Kentucky    -    $11199.66
+ California    -    $76381.32000000008
+ Florida    -    $-3399.2999999999997
+ North Carolina    -    $-7490.849999999993
+ Washington    -    $33402.67999999999
+ Texas    -    $-25729.37999999997
+ Wisconsin    -    $8401.780000000002
+ Utah    -    $2546.5599999999995
+ Nebraska    -    $2037.1
+ Pennsylvania    -    $-15560.02000000002
+ Illinois    -    $-12607.900000000003
+ Minnesota    -    $10823.200000000003
+ Michigan    -    $24463.100000000002
+ Delaware    -    $9977.370000000004
+ Indiana    -    $18382.940000000002
+ New York    -    $74038.45000000003
+ Arizona    -    $-3427.9000000000015
+ Virginia    -    $18597.94
+ Tennessee    -    $-5341.659999999999
+ Alabama    -    $5786.84
+ South Carolina    -    $1769.08
+ Oregon    -    $-1190.4700000000003
+ Colorado    -    $-6527.8799999999965
+ Iowa    -    $1183.8100000000002
+ Ohio    -    $-16971.389999999992
+ Missouri    -    $6436.180000000002
+ Oklahoma    -    $4853.9800000000005
+ New Mexico    -    $1157.1299999999999
+ Louisiana    -    $2196.0799999999995
+ Connecticut    -    $3511.4399999999982
+ New Jersey    -    $9772.900000000003
+ Massachusetts    -    $6785.499999999999
+ Georgia    -    $16250.029999999993
+ Nevada    -    $3316.7599999999998
+ Rhode Island    -    $7285.630000000001
+ Mississippi    -    $3172.960000000001
+ Arkansas    -    $4008.6499999999983
+ Montana    -    $1833.3100000000002
+ New Hampshire    -    $1706.5000000000002
+ Maryland    -    $7031.179999999999
+ District of Columbia    -    $1059.59
+ Kansas    -    $836.44
+ Vermont    -    $2244.9700000000003
+ Maine    -    $454.49
+ South Dakota    -    $394.83
+ Idaho    -    $826.7299999999999
+ North Dakota    -    $230.13
+ Wyoming    -    $100.2
+ West Virginia    -    $185.93
+ 
+ The best-selling Sub-Category for each State
+ 
+Kentucky
+      Binders : 87
+California
+      Paper : 1091
+Florida
+      Binders : 262
+North Carolina
+      Binders : 185
+Washington
+      Binders : 365
+Texas
+      Binders : 626
+Wisconsin
+      Accessories : 64
+Utah
+      Paper : 53
+Nebraska
+      Paper : 21
+Pennsylvania
+      Binders : 331
+Illinois
+      Binders : 327
+Minnesota
+      Binders : 55
+Michigan
+      Binders : 192
+Delaware
+      Binders : 67
+Indiana
+      Paper : 100
+New York
+      Binders : 696
+Arizona
+      Binders : 155
+Virginia
+      Furnishings : 114
+Tennessee
+      Paper : 97
+Alabama
+      Binders : 41
+South Carolina
+      Storage : 47
+Oregon
+      Paper : 79
+Colorado
+      Binders : 112
+Iowa
+      Binders : 34
+Ohio
+      Binders : 292
+Missouri
+      Paper : 42
+Oklahoma
+      Binders : 42
+New Mexico
+      Paper : 28
+Louisiana
+      Binders : 33
+Connecticut
+      Binders : 48
+New Jersey
+      Paper : 59
+Massachusetts
+      Paper : 101
+Georgia
+      Paper : 139
+Nevada
+      Binders : 32
+Rhode Island
+      Paper : 46
+Mississippi
+      Binders : 36
+Arkansas
+      Accessories : 43
+Montana
+      Storage : 18
+New Hampshire
+      Furnishings : 23
+Maryland
+      Furnishings : 57
+District of Columbia
+      Paper : 11
+Kansas
+      Art : 14
+Vermont
+      Storage : 13
+Maine
+      Paper : 13
+South Dakota
+      Binders : 14
+Idaho
+      Paper : 13
+North Dakota
+      Art : 18
+Wyoming
+      Chairs : 4
+West Virginia
+      Paper : 8
