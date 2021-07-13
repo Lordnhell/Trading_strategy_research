@@ -1,0 +1,11 @@
+Packages for handling and plotting data. 
+
+For this code to run, please install the following libraries: 
+
+1) pandas 
+2) time 
+3) datetime 
+4) requests_html 
+5) mplfinance
+
+Use 'pip install (name of library)' in your command line. 
